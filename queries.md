@@ -53,7 +53,7 @@ limit: 20
 <!-- Your Code Goes Here -->
 
 ### 11. All the companies founded on the second semester of the year. Limit your search to 1000 companies.
-.filter({"founded_month": {"$gte": 6}})
+.filter({"founded_month": {"$gte": 7}})
 limit: 1000
 <!-- Your Code Goes Here -->
 
